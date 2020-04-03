@@ -6,7 +6,7 @@ Project Structure
 │
 └───Classes
 │   │   bookClass.js
-│   │   storage.js
+│   │   storageClass.js
 │   │   uiClass.js
 │      
 └───Events
